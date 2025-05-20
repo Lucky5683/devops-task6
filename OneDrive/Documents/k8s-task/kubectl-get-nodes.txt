@@ -1,2 +1,0 @@
-NAME       STATUS   ROLES           AGE     VERSION
-minikube   Ready    control-plane   5m32s   v1.32.0
